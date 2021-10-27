@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'VenuDay2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B879907BD1BB4F62B5FA75B09BDD4C0C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE49386BFE7E4FF5A8A566D0875C9BB3 }}
           package: .
